@@ -1,0 +1,253 @@
+PLAYTEST TABLE
+Chocolatier
+
+4 stages, 8 rounds each. Build factories, climb Research and Reputation, and finish with the highest net worth. New to the game? Read How to play below before you open the atelier.
+
+Players
+3
+4
+5
+6
+Human
+Bot
+Human
+Bot
+Human
+Bot
+Human
+Bot
+Direct draw: skip Market Composition. Each turn draws 1× players cards from the Stage deck into the pool.
+Open the atelier
+Live room
+
+Create a room and send the code or link. Friends join on their own devices. Empty human seats become bots when you start.
+
+Create room
+Join room
+RULES
+How to play
+
+You run a chocolate atelier. Buy ingredients, staff, and upgrades from a shared market, then assign them to factories so recipes pay you every round. After four stages, the richest net worth wins.
+
+What you start with
+$20M cash.
+One Basic Cocoa and one Sugar in Supply — enough for Basic Chocolate.
+Four factories, each with 3 ingredient slots. Bigger recipes need extra slots.
+No Research, no Reputation, no Schemes yet.
+The shape of the game
+
+There are 4 stages, and each stage has 8 rounds. A new stage brings new cards (Coffee and Almond in Stage 2, berries and caramel in Stage 3, Royal Honey and Masteries in Stage 4). Recipe lists and card counts sit in the reference tables below this sheet.
+
+At the start of every stage you bid cash for turn order. Higher bid goes first. Ties go to higher Reputation, then a re-bid, then dice. After each round, the first player rotates to last.
+
+A round, in order
+Market. In the usual game, each player was dealt 10 Stage cards and now secretly contributes one of them. Those cards are shuffled into a shared pool. Direct draw skips that: the table draws one card per player from the Stage deck instead.
+Private Viewing. If you hold that Scheme and have 2 Reputation, you may play it now to buy first. Otherwise pass. Bots never play it.
+Purchasing (in turn order). Take one pool card: buy it, or discard it to the public Discard for $5M / $10M / $15M / $20M in Stages 1–4. During your turn you may also buy Open Market Cocoa or Sugar for $5M each. The open tray restocks each stage (2× players of each in Stage 1, then 1× players). Then the next player goes. When the pool is empty, purchasing ends even if someone has not had a turn.
+Schemes. Optionally pay 1 Reputation to draw 3 Schemes and keep 1 (hand limit 3; you cannot draw if fewer than 3 remain). Then play at most one Scheme. Veto Power is the exception: it is used when someone else plays a Scheme, and it does not use up your play.
+Assignment. Click Researchers and Journalists to put them on your tracks. Click Extra Ingredient Slot cards (face $5/$10/$15/$20M by stage) to bank them, then + slot on a factory. Select ingredients (or use a Ready to produce button) and assign a recipe. Tear down returns those ingredients to Supply so you can rebuild. Reputation awards for new recipes are granted only when you click Done assigning.
+Income. Everyone is paid at once: factory recipes + Research track + Reputation track + Mastery bonuses.
+End of Stage relief after Stages 1–3 (not 4). Standings freeze using cash + 5×ResP + 4×RepP + 3× last production. Ties share the worse rank. Rank 3–4 may take up to 1 package; rank 5+ up to 2 different packages (or skip). Last place chooses first; joint last rolls dice. Packages: +1/+2/+3 ResP, +2/+3/+4 Rep, $10/20/30M, or one Discard ingredient. Each package taken costs 25/50/75 final-score penalty.
+How a factory pays
+A recipe needs the exact ingredient types, in the exact counts, and nothing extra.
+Recipe Tier N needs Research Level N−1 (Tier 1 is open from the start).
+Many recipes are limited across the whole table: n+1, n, n−1, or by-count (2/2/3/4 factories at 3/4/5/6 players). Stage 2 adds Milky Almond Chocolate.
+Premium extras: Cocoa +$1M, Milk +$2M, Coffee +$3M, Almond +$3M to that factory.
+Factories keep paying every round until you tear them down.
+Research and Reputation
+
+Assign staff from Supply. Junior / Senior / Master Researchers are +1 / +2 / +3 Research points. Journalists are +2 / +3 / +5 Reputation. Both tracks also pay income: $1M / $3M / $6M per round at Level 1 / 2 / 3, and those stack.
+
+Research levels at 3 / 7 / 11 points. Unlocks higher-tier recipes, Sea Salt at L2, and 25% off Coffee/Almond (L1), Wild Berries/Caramel (L2), Royal Honey (L3).
+Reputation levels at 5 / 13 / 21 points. You spend it to draw and play Schemes. Completing a recipe awards 1 / 2 / 4 / 8 Reputation for 3 / 4 / 5 / 6 ingredients, plus +1 if you are first in the game to make that recipe (the Recipe board highlights that player). Reputation bonus Research is +1 / +3 / +5 ResP at L1 / L2 / L3. L1: a $5M extra slot. L2: a second $10M slot and a $20M extra factory. Strawberry needs L2 to buy. Same 25% family discounts as Research, and they add.
+Most Reputable is first awarded to a unique lead with at least 5 Reputation. A tie does not remove it — the holder keeps the title until another player is strictly ahead (Catan-style). Dropping below 5 loses it. The title knocks $1M / $1M / $2M / $3M off pool prices in Stages 1–4, then track percents apply. It does not discount Open Market Cocoa/Sugar.
+Schemes and Masteries
+
+Schemes are optional dirty tricks. Each has a Reputation play cost (sometimes players−2 or the current stage). Other players get a chance to Veto. Hostile Takeover makes you Most Reputable for this turn and the next 2. Double Agent swaps one hand card with each of two other players. Stage 4 can put a Mastery into play if you have Research L3 or Reputation L3 — you keep only one.
+
+Full Scheme and Mastery texts are in the ledger reference once a game is open.
+
+How you win
+
+After Stage 4, round 8, score everything you have:
+
+Cash on hand
+$5M per Research point
+$4M per Reputation point
+3× your last income payment
+$25M split among whoever has the most Research points, and another $25M split among whoever has the most Reputation (ties share; floor).
+Minus any End of Stage relief penalties you took (25 / 50 / 75 per package after Stages 1 / 2 / 3).
+First-game advice
+On Assignment, make Basic Chocolate immediately. It is unlimited and starts your income.
+Bid small in Stage 1. Cash spent on turn order is cash you cannot spend on cards.
+Buy Researchers when you see them. Research L1 unlocks Tier 2 recipes and cheapens Coffee and Almond later.
+If a pool card is useless to you, discard it for the stage pay rather than leaving a gift for the player after you — but remember you only resolve one pool card on your turn.
+Skip Schemes until you have Reputation to spare. They are not required to win.
+Hot-seat: the screen hides between turns — pass the device. Online: you only see your own hand and Schemes; factories and Supply stay public.
+Developer · recipe income
+
+Overrides persist across New Game. Blank/default values come from the pay table.
+
+Basic Chocolate
+Dark Chocolate
+Milk Chocolate
+Matcha Chocolate
+White Chocolate
+Extra Dark Chocolate
+Coffee Chocolate
+Almond Chocolate
+Mocha Chocolate
+Milky Almond Chocolate
+Coffee with Almond Chocolate
+Wild Berries Chocolate
+Caramel Chocolate
+Strawberry Chocolate
+Sea Salt Chocolate
+Milky Caramel Chocolate
+Caramelized Wild Berries Chocolate
+Nutty Wild Berries Chocolate
+Coffee Caramel Chocolate
+Salty Caramel Chocolate
+Assorted Berry Chocolate
+Salty Nut Chocolate
+Matcha Strawberry Chocolate
+Salty Strawberry Chocolate
+Mocha Caramel Chocolate
+Caramelized Nutty Wild Berries Chocolate
+Royal Dark Chocolate
+Royal Milky & Nutty Matcha Chocolate
+Royal Glazed Mocha Caramel Chocolate
+Royal Glazed Caramelized Nutty Wild Berries Chocolate
+Royal Milky & Nutty Strawberry Chocolate
+Royal Milky & Salty Coffee Chocolate
+Royal Assorted Mix
+Royal Salty Berry Chocolate
+Developer · card costs
+
+Face costs for market cards. Overrides persist across New Game and apply to cards already in play. Masteries uses the Masteries row.
+
+Basic Cocoa printed $1M
+Sugar printed $1M
+Basic Milk printed $3M
+Matcha printed $8M
+Junior Researcher printed $4M
+Junior Journalist printed $4M
+Extra Ingredient Slot printed $5/$10/$15/$20M
+Premium Cocoa printed $8M
+Coffee printed $16M
+Senior Researcher printed $10M
+Almond printed $12M
+Senior Journalist printed $10M
+Master Researcher printed $24M
+Wild Berries printed $30M
+Caramel printed $30M
+Premium Milk printed $24M
+Master Journalist printed $24M
+Strawberry printed $18M
+Sea Salt printed $18M
+Masteries printed $48M
+Royal Honey printed $60M
+Premium Coffee printed $40M
+Premium Almond printed $30M
+Recipe board
+Ingredients
+Research & Reputation tracks
+Recipes by assembly stage
+Stage 1
+Basic Chocolate T1 (Res L0) $1M · Cocoa, Sugar · cap unlimited
+Dark Chocolate T1 (Res L0) $2M · Cocoa, Cocoa, Sugar · cap n+1
+Milk Chocolate T1 (Res L0) $2M · Cocoa, Milk, Sugar · cap n+1
+Matcha Chocolate T1 (Res L0) $4M · Cocoa, Matcha, Sugar · cap by-count
+White Chocolate T1 (Res L0) $4M · Cocoa, Milk, Sugar, Sugar · cap n+1
+Stage 2
+Extra Dark Chocolate T2 (Res L1) $5M · Cocoa, Cocoa, Cocoa, Sugar · cap n+1
+Coffee Chocolate T1 (Res L0) $4M · Cocoa, Coffee, Sugar · cap n
+Almond Chocolate T1 (Res L0) $3M · Cocoa, Almond, Sugar · cap n
+Mocha Chocolate T2 (Res L1) $6M · Cocoa, Milk, Coffee, Sugar · cap n
+Milky Almond Chocolate T2 (Res L1) $5M · Cocoa, Milk, Almond, Sugar · cap n
+Coffee with Almond Chocolate T2 (Res L1) $8M · Cocoa, Coffee, Almond, Sugar · cap n
+Stage 3
+Wild Berries Chocolate T2 (Res L1) $8M · Cocoa, Wild Berries, Sugar · cap n
+Caramel Chocolate T2 (Res L1) $8M · Cocoa, Caramel, Sugar · cap n
+Strawberry Chocolate T2 (Res L1) $8M · Cocoa, Strawberry, Sugar · cap n
+Sea Salt Chocolate T3 (Res L2) $10M · Cocoa, Sea Salt, Sugar · cap n
+Milky Caramel Chocolate T2 (Res L1) $12M · Cocoa, Milk, Caramel, Sugar · cap n-1
+Caramelized Wild Berries Chocolate T3 (Res L2) $20M · Cocoa, Wild Berries, Caramel, Sugar · cap n-1
+Nutty Wild Berries Chocolate T2 (Res L1) $12M · Cocoa, Almond, Wild Berries, Sugar · cap n-1
+Coffee Caramel Chocolate T2 (Res L1) $12M · Cocoa, Caramel, Coffee, Sugar · cap n-1
+Salty Caramel Chocolate T3 (Res L2) $18M · Cocoa, Sea Salt, Caramel, Sugar · cap n-1
+Assorted Berry Chocolate T3 (Res L2) $15M · Cocoa, Strawberry, Wild Berries, Sugar · cap n-1
+Salty Nut Chocolate T3 (Res L2) $15M · Cocoa, Sea Salt, Almond, Sugar · cap n-1
+Matcha Strawberry Chocolate T2 (Res L1) $13M · Cocoa, Strawberry, Matcha, Sugar · cap n-1
+Salty Strawberry Chocolate T3 (Res L2) $20M · Cocoa, Strawberry, Sea Salt, Sugar · cap by-count
+Mocha Caramel Chocolate T3 (Res L2) $28M · Cocoa, Caramel, Coffee, Milk, Sugar · cap by-count
+Caramelized Nutty Wild Berries Chocolate T3 (Res L2) $33M · Cocoa, Wild Berries, Almond, Caramel, Sugar · cap by-count
+Stage 4
+Royal Dark Chocolate T3 (Res L2) $20M · Cocoa, Cocoa, Royal Honey, Sugar · cap n
+Royal Milky & Nutty Matcha Chocolate T3 (Res L2) $30M · Cocoa, Matcha, Milk, Almond, Royal Honey · cap by-count
+Royal Glazed Mocha Caramel Chocolate T3 (Res L2) $45M · Cocoa, Caramel, Coffee, Milk, Royal Honey · cap by-count
+Royal Glazed Caramelized Nutty Wild Berries Chocolate T3 (Res L2) $45M · Cocoa, Wild Berries, Almond, Caramel, Royal Honey · cap by-count
+Royal Milky & Nutty Strawberry Chocolate T3 (Res L2) $45M · Cocoa, Strawberry, Milk, Almond, Royal Honey · cap by-count
+Royal Milky & Salty Coffee Chocolate T3 (Res L2) $45M · Cocoa, Sea Salt, Milk, Coffee, Royal Honey · cap by-count
+Royal Assorted Mix T4 (Res L3) $65M · Cocoa, Coffee, Almond, Wild Berries, Caramel, Royal Honey · cap by-count
+Royal Salty Berry Chocolate T4 (Res L3) $80M · Cocoa, Wild Berries, Strawberry, Sea Salt, Caramel, Royal Honey · cap by-count
+Card distribution
+
+Stage 1: Cocoa, Sugar, Milk, Matcha · Stage 2: the above + Coffee, Almond, Premium Cocoa · Stage 3: the above + Wild Berries, Caramel, Strawberry, Sea Salt, Premium Milk · Stage 4: the above + Royal Honey, Premium Coffee, Premium Almond, Masteries
+
+Card	Kind	$	S1	S2	S3	S4
+Basic Cocoa
+Open Market also stocks Cocoa
+	Supply	1	3×n	1×n	—	—
+Sugar
+Open Market also stocks Sugar
+	Supply	1	2×n	2×n	—	—
+Basic Milk	Supply	3	1×n	1×n	—	—
+Matcha	Supply	8	1×n	—	—	—
+Junior Researcher
++1 ResP
+	Research	4	1×n	—	—	—
+Junior Journalist
++2 Rep
+	Reputation	4	1×n	—	—	—
+Extra Ingredient Slot
+Face $5/$10/$15/$20M in Stages 1–4. Assignable extra factory slot
+	Upgrade	5/10/15/20	1×n	1×n	1×n	1×n
+Premium Cocoa
+Counts as Cocoa, +$1M to that factory
+	Supply	8	—	1×n	—	—
+Coffee	Supply	16	—	1×n	1×n	—
+Senior Researcher
++2 ResP
+	Research	10	—	1×n	—	—
+Almond	Supply	12	—	1×n	1×n	—
+Senior Journalist
++3 Rep
+	Reputation	10	—	1×n	—	—
+Master Researcher
++3 ResP
+	Research	24	—	—	1×n	2×n
+Wild Berries	Supply	30	—	—	1×n	1×n
+Caramel	Supply	30	—	—	1×n	1×n
+Premium Milk
+Counts as Milk, +$2M to that factory
+	Supply	24	—	—	1×n	—
+Master Journalist
++5 Rep
+	Reputation	24	—	—	1×n	1×n
+Strawberry
+Requires Reputation L2 to buy from the pool
+	Supply	18	—	—	1×n	—
+Sea Salt
+Requires Research L2 to buy from the pool
+	Supply	18	—	—	1×n	—
+Masteries
+n random unique Masteries; needs Res L3 or Rep L3
+	Mastery	48	—	—	—	1×n
+Royal Honey	Supply	60	—	—	—	1×n
+Premium Coffee
+Counts as Coffee, +$3M to that factory
+	Supply	40	—	—	—	1×n
+Premium Almond
+Counts as Almond, +$3M to that factory
+	Supply	30	—	—	—	1×n

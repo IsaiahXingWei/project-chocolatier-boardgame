@@ -1,0 +1,38 @@
+THE FLOOR
+Chocolatier
+Stage 1 · Round 1/8
+Open market: 8 cocoa · 8 sugar
+Scheme deck: 26
+Amelie
+#1
+$20M · Res 0 (L0) · Rep 0 (L0)
+Factories: idle · idle · idle · idle
+Bruno · bot
+#2
+$20M · Res 0 (L0) · Rep 0 (L0)
+Factories: idle · idle · idle · idle
+Chiara · bot
+#3
+$20M · Res 0 (L0) · Rep 0 (L0)
+Factories: idle · idle · idle · idle
+Dorian · bot
+#4
+$20M · Res 0 (L0) · Rep 0 (L0)
+Factories: idle · idle · idle · idle
+Closed bid — Amelie
+
+Bids are paid to the Bank. $0 is allowed. Increments of $1M.
+
+Cash on hand: $20M
+
+Bid $0M
+
+Current production if paid now: Amelie $0M · Bruno $0M · Chiara $0M · Dorian $0M · Global recipe use: none
+
+Ledger
+New game
+Stage 1 — cards dealt. Bid for turn order.
+A new atelier opens with 4 chocolatiers.
+Recipes
+Schemes
+Masteries

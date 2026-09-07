@@ -1,0 +1,94 @@
+THE FLOOR
+Chocolatier
+Stage 1 · Round 1/8
+Open market: 8 cocoa · 8 sugar
+Scheme deck: 26
+Amelie
+#4
+$23M · Res 0 (L0) · Rep 0 (L0)
+Factories: Basic Chocolate · idle · idle · idle
+Bruno · bot
+#2
+$17M · Res 0 (L0) · Rep 0 (L0)
+Factories: Basic Chocolate · idle · idle · idle
+Chiara · bot
+#3
+$17M · Res 0 (L0) · Rep 2 (L0)
+Factories: Dark Chocolate · idle · idle · idle
+Dorian · bot
+#1
+$16M · Res 1 (L0) · Rep 1 (L0)
+Factories: Basic Chocolate · idle · idle · idle
+Assignment — Amelie
+
+Research L0 (0 pts) · Reputation L0 (0 pts) · Unassigned slots 0
+
+Buy extra slot $5M
+Buy extra factory $10M
+Done assigning
+Supply
+
+Ingredient cards: click to select, then Assign on a factory. Specialists assign immediately.
+
+Empty supply.
+Basic Chocolate
+Slots 3 · extras 0
+Basic Cocoa
+Sugar
+Assign
++ slot
+− slot
+Tear down
+Empty factory
+Slots 3 · extras 0
+Assign
++ slot
+− slot
+No valid recipe from current Supply fits this factory.
+Empty factory
+Slots 3 · extras 0
+Assign
++ slot
+− slot
+No valid recipe from current Supply fits this factory.
+Empty factory
+Slots 3 · extras 0
+Assign
++ slot
+− slot
+No valid recipe from current Supply fits this factory.
+
+Current production if paid now: Amelie $1M · Bruno $1M · Chiara $2M · Dorian $1M · Global recipe use: Basic Chocolate 3/99, Dark Chocolate 1/3
+
+Ledger
+New game
+Amelie completes Basic Chocolate (+0 Rep).
+Chiara introduces Dark Chocolate (+2 Rep).
+Bruno completes Basic Chocolate (+0 Rep).
+Dorian introduces Basic Chocolate (+1 Rep).
+Dorian assigns Junior Researcher (+1 ResP).
+Amelie discards Basic Cocoa for $3M.
+Chiara buys Basic Cocoa for $1M.
+Bruno buys Sugar for $1M.
+Dorian buys Junior Researcher for $2M.
+Market revealed: Junior Researcher, Sugar, Basic Cocoa, Basic Cocoa.
+Amelie contributes a card to the market.
+Chiara contributes a card to the market.
+Bruno contributes a card to the market.
+Dorian contributes a card to the market.
+Turn order: 1. Dorian · 2. Bruno · 3. Chiara · 4. Amelie
+Dice: Bruno 4, Chiara 3, Dorian 7.
+Still tied. Rolling dice for Bruno, Chiara, Dorian.
+Dorian places a turn-order bid.
+Chiara places a turn-order bid.
+Bruno places a turn-order bid.
+Tied bid + reputation: Bruno, Chiara, Dorian re-bid.
+Dorian places a turn-order bid.
+Chiara places a turn-order bid.
+Bruno places a turn-order bid.
+Amelie places a turn-order bid.
+Stage 1 — cards dealt. Bid for turn order.
+A new atelier opens with 4 chocolatiers.
+Recipes
+Schemes
+Masteries

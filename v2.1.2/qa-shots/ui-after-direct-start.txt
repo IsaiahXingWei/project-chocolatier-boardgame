@@ -1,0 +1,267 @@
+THE FLOOR
+Chocolatier
+Stage 1 · Round 1/8
+Open market: 8 cocoa · 8 sugar
+Scheme deck: 40
+Direct draw · Stage deck 40
+Amelie
+#1
+$20M · Res 0 (L0) · Rep 0 (L0)
+Supply Basic Cocoa, Sugar
+Idle factory
+Idle factory
+Idle factory
+Idle factory
+Bruno · bot
+#2
+$19M · Res 0 (L0) · Rep 0 (L0)
+Supply Basic Cocoa, Sugar
+Idle factory
+Idle factory
+Idle factory
+Idle factory
+Chiara · bot
+#3
+$19M · Res 0 (L0) · Rep 0 (L0)
+Supply Basic Cocoa, Sugar
+Idle factory
+Idle factory
+Idle factory
+Idle factory
+Dorian · bot
+#4
+$19M · Res 0 (L0) · Rep 0 (L0)
+Supply Basic Cocoa, Sugar
+Idle factory
+Idle factory
+Idle factory
+Idle factory
+Bids revealed
+Amelie: $0M
+Bruno: $1M
+Chiara: $1M
+Dorian: $1M
+Set turn order
+
+Current production if paid now: Amelie $0M · Bruno $0M · Chiara $0M · Dorian $0M · Global recipe use: none
+
+Ledger
+New game
+Dorian places a turn-order bid.
+Chiara places a turn-order bid.
+Bruno places a turn-order bid.
+Amelie places a turn-order bid.
+Stage 1 — 40 cards in the stage deck. Each turn draws 4 into the pool.
+A new atelier opens with 4 chocolatiers (direct draw).
+Dev: basic income set to $9M.
+Developer · recipe income
+
+Overrides persist across New Game. Blank/default values come from the pay table.
+
+Basic Chocolate
+Dark Chocolate
+Milk Chocolate
+Matcha Chocolate
+White Chocolate
+Extra Dark Chocolate
+Coffee Chocolate
+Almond Chocolate
+Mocha Chocolate
+Milky Almond Chocolate
+Coffee with Almond Chocolate
+Wild Berries Chocolate
+Caramel Chocolate
+Strawberry Chocolate
+Sea Salt Chocolate
+Milky Caramel Chocolate
+Caramelized Wild Berries Chocolate
+Nutty Wild Berries Chocolate
+Coffee Caramel Chocolate
+Salty Caramel Chocolate
+Assorted Berry Chocolate
+Salty Nut Chocolate
+Matcha Strawberry Chocolate
+Salty Strawberry Chocolate
+Mocha Caramel Chocolate
+Caramelized Nutty Wild Berries Chocolate
+Royal Dark Chocolate
+Royal Milky & Nutty Matcha Chocolate
+Royal Glazed Mocha Caramel Chocolate
+Royal Glazed Caramelized Nutty Wild Berries Chocolate
+Royal Milky & Nutty Strawberry Chocolate
+Royal Milky & Salty Coffee Chocolate
+Royal Assorted Mix
+Royal Salty Berry Chocolate
+Developer · card costs
+
+Face costs for market cards. Overrides persist across New Game and apply to cards already in play. Masteries uses the Masteries row.
+
+Basic Cocoa printed $1M
+Sugar printed $1M
+Basic Milk printed $3M
+Matcha printed $8M
+Junior Researcher printed $4M
+Junior Journalist printed $4M
+Extra Ingredient Slot printed $5/$10/$15/$20M
+Premium Cocoa printed $8M
+Coffee printed $16M
+Senior Researcher printed $10M
+Almond printed $12M
+Senior Journalist printed $10M
+Master Researcher printed $24M
+Wild Berries printed $30M
+Caramel printed $30M
+Premium Milk printed $24M
+Master Journalist printed $24M
+Strawberry printed $18M
+Sea Salt printed $18M
+Masteries printed $48M
+Royal Honey printed $60M
+Premium Coffee printed $40M
+Premium Almond printed $30M
+Recipe board
+
+A check means that player has developed the recipe (Reputation granted on Done assigning). The gold name is who received the global +1 for introducing it first. Hover a recipe name for ingredient icons (glow = you have it) and the Research level needed.
+
+Recipe	Amelie	Bruno	Chiara	Dorian	First +1
+Stage 1
+Basic Chocolate	·	·	·	·	—
+Dark Chocolate	·	·	·	·	—
+Milk Chocolate	·	·	·	·	—
+Matcha Chocolate	·	·	·	·	—
+White Chocolate	·	·	·	·	—
+Stage 2
+Extra Dark Chocolate	·	·	·	·	—
+Coffee Chocolate	·	·	·	·	—
+Almond Chocolate	·	·	·	·	—
+Mocha Chocolate	·	·	·	·	—
+Milky Almond Chocolate	·	·	·	·	—
+Coffee with Almond Chocolate	·	·	·	·	—
+Stage 3
+Wild Berries Chocolate	·	·	·	·	—
+Caramel Chocolate	·	·	·	·	—
+Strawberry Chocolate	·	·	·	·	—
+Sea Salt Chocolate	·	·	·	·	—
+Milky Caramel Chocolate	·	·	·	·	—
+Caramelized Wild Berries Chocolate	·	·	·	·	—
+Nutty Wild Berries Chocolate	·	·	·	·	—
+Coffee Caramel Chocolate	·	·	·	·	—
+Salty Caramel Chocolate	·	·	·	·	—
+Assorted Berry Chocolate	·	·	·	·	—
+Salty Nut Chocolate	·	·	·	·	—
+Matcha Strawberry Chocolate	·	·	·	·	—
+Salty Strawberry Chocolate	·	·	·	·	—
+Mocha Caramel Chocolate	·	·	·	·	—
+Caramelized Nutty Wild Berries Chocolate	·	·	·	·	—
+Stage 4
+Royal Dark Chocolate	·	·	·	·	—
+Royal Milky & Nutty Matcha Chocolate	·	·	·	·	—
+Royal Glazed Mocha Caramel Chocolate	·	·	·	·	—
+Royal Glazed Caramelized Nutty Wild Berries Chocolate	·	·	·	·	—
+Royal Milky & Nutty Strawberry Chocolate	·	·	·	·	—
+Royal Milky & Salty Coffee Chocolate	·	·	·	·	—
+Royal Assorted Mix	·	·	·	·	—
+Royal Salty Berry Chocolate	·	·	·	·	—
+Ingredients
+Research & Reputation tracks
+Recipes by assembly stage
+Stage 1
+Basic Chocolate T1 (Res L0) $9M (printed $1M) · Cocoa, Sugar · cap unlimited
+Dark Chocolate T1 (Res L0) $2M · Cocoa, Cocoa, Sugar · cap n+1
+Milk Chocolate T1 (Res L0) $2M · Cocoa, Milk, Sugar · cap n+1
+Matcha Chocolate T1 (Res L0) $4M · Cocoa, Matcha, Sugar · cap by-count
+White Chocolate T1 (Res L0) $4M · Cocoa, Milk, Sugar, Sugar · cap n+1
+Stage 2
+Extra Dark Chocolate T2 (Res L1) $5M · Cocoa, Cocoa, Cocoa, Sugar · cap n+1
+Coffee Chocolate T1 (Res L0) $4M · Cocoa, Coffee, Sugar · cap n
+Almond Chocolate T1 (Res L0) $3M · Cocoa, Almond, Sugar · cap n
+Mocha Chocolate T2 (Res L1) $6M · Cocoa, Milk, Coffee, Sugar · cap n
+Milky Almond Chocolate T2 (Res L1) $5M · Cocoa, Milk, Almond, Sugar · cap n
+Coffee with Almond Chocolate T2 (Res L1) $8M · Cocoa, Coffee, Almond, Sugar · cap n
+Stage 3
+Wild Berries Chocolate T2 (Res L1) $8M · Cocoa, Wild Berries, Sugar · cap n
+Caramel Chocolate T2 (Res L1) $8M · Cocoa, Caramel, Sugar · cap n
+Strawberry Chocolate T2 (Res L1) $8M · Cocoa, Strawberry, Sugar · cap n
+Sea Salt Chocolate T3 (Res L2) $10M · Cocoa, Sea Salt, Sugar · cap n
+Milky Caramel Chocolate T2 (Res L1) $12M · Cocoa, Milk, Caramel, Sugar · cap n-1
+Caramelized Wild Berries Chocolate T3 (Res L2) $20M · Cocoa, Wild Berries, Caramel, Sugar · cap n-1
+Nutty Wild Berries Chocolate T2 (Res L1) $12M · Cocoa, Almond, Wild Berries, Sugar · cap n-1
+Coffee Caramel Chocolate T2 (Res L1) $12M · Cocoa, Caramel, Coffee, Sugar · cap n-1
+Salty Caramel Chocolate T3 (Res L2) $18M · Cocoa, Sea Salt, Caramel, Sugar · cap n-1
+Assorted Berry Chocolate T3 (Res L2) $15M · Cocoa, Strawberry, Wild Berries, Sugar · cap n-1
+Salty Nut Chocolate T3 (Res L2) $15M · Cocoa, Sea Salt, Almond, Sugar · cap n-1
+Matcha Strawberry Chocolate T2 (Res L1) $13M · Cocoa, Strawberry, Matcha, Sugar · cap n-1
+Salty Strawberry Chocolate T3 (Res L2) $20M · Cocoa, Strawberry, Sea Salt, Sugar · cap by-count
+Mocha Caramel Chocolate T3 (Res L2) $28M · Cocoa, Caramel, Coffee, Milk, Sugar · cap by-count
+Caramelized Nutty Wild Berries Chocolate T3 (Res L2) $33M · Cocoa, Wild Berries, Almond, Caramel, Sugar · cap by-count
+Stage 4
+Royal Dark Chocolate T3 (Res L2) $20M · Cocoa, Cocoa, Royal Honey, Sugar · cap n
+Royal Milky & Nutty Matcha Chocolate T3 (Res L2) $30M · Cocoa, Matcha, Milk, Almond, Royal Honey · cap by-count
+Royal Glazed Mocha Caramel Chocolate T3 (Res L2) $45M · Cocoa, Caramel, Coffee, Milk, Royal Honey · cap by-count
+Royal Glazed Caramelized Nutty Wild Berries Chocolate T3 (Res L2) $45M · Cocoa, Wild Berries, Almond, Caramel, Royal Honey · cap by-count
+Royal Milky & Nutty Strawberry Chocolate T3 (Res L2) $45M · Cocoa, Strawberry, Milk, Almond, Royal Honey · cap by-count
+Royal Milky & Salty Coffee Chocolate T3 (Res L2) $45M · Cocoa, Sea Salt, Milk, Coffee, Royal Honey · cap by-count
+Royal Assorted Mix T4 (Res L3) $65M · Cocoa, Coffee, Almond, Wild Berries, Caramel, Royal Honey · cap by-count
+Royal Salty Berry Chocolate T4 (Res L3) $80M · Cocoa, Wild Berries, Strawberry, Sea Salt, Caramel, Royal Honey · cap by-count
+Card distribution
+
+Stage 1: Cocoa, Sugar, Milk, Matcha · Stage 2: the above + Coffee, Almond, Premium Cocoa · Stage 3: the above + Wild Berries, Caramel, Strawberry, Sea Salt, Premium Milk · Stage 4: the above + Royal Honey, Premium Coffee, Premium Almond, Masteries
+
+Card	Kind	$	S1	S2	S3	S4
+Basic Cocoa
+Open Market also stocks Cocoa
+	Supply	1	3×n	1×n	—	—
+Sugar
+Open Market also stocks Sugar
+	Supply	1	2×n	2×n	—	—
+Basic Milk	Supply	3	1×n	1×n	—	—
+Matcha	Supply	8	1×n	—	—	—
+Junior Researcher
++1 ResP
+	Research	4	1×n	—	—	—
+Junior Journalist
++2 Rep
+	Reputation	4	1×n	—	—	—
+Extra Ingredient Slot
+Face $5/$10/$15/$20M in Stages 1–4. Assignable extra factory slot
+	Upgrade	5/10/15/20	1×n	1×n	1×n	1×n
+Premium Cocoa
+Counts as Cocoa, +$1M to that factory
+	Supply	8	—	1×n	—	—
+Coffee	Supply	16	—	1×n	1×n	—
+Senior Researcher
++2 ResP
+	Research	10	—	1×n	—	—
+Almond	Supply	12	—	1×n	1×n	—
+Senior Journalist
++3 Rep
+	Reputation	10	—	1×n	—	—
+Master Researcher
++3 ResP
+	Research	24	—	—	1×n	2×n
+Wild Berries	Supply	30	—	—	1×n	1×n
+Caramel	Supply	30	—	—	1×n	1×n
+Premium Milk
+Counts as Milk, +$2M to that factory
+	Supply	24	—	—	1×n	—
+Master Journalist
++5 Rep
+	Reputation	24	—	—	1×n	1×n
+Strawberry
+Requires Reputation L2 to buy from the pool
+	Supply	18	—	—	1×n	—
+Sea Salt
+Requires Research L2 to buy from the pool
+	Supply	18	—	—	1×n	—
+Masteries
+n random unique Masteries; needs Res L3 or Rep L3
+	Mastery	48	—	—	—	1×n
+Royal Honey	Supply	60	—	—	—	1×n
+Premium Coffee
+Counts as Coffee, +$3M to that factory
+	Supply	40	—	—	—	1×n
+Premium Almond
+Counts as Almond, +$3M to that factory
+	Supply	30	—	—	—	1×n
+Schemes
+Masteries

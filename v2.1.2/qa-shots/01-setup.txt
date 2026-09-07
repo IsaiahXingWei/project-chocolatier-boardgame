@@ -1,0 +1,19 @@
+PLAYTEST TABLE
+Chocolatier
+
+4 stages, 8 rounds each. Build factories, climb Research and Reputation, and finish with the highest net worth.
+
+Players
+3
+4
+5
+6
+Human
+Bot
+Human
+Bot
+Human
+Bot
+Human
+Bot
+Open the atelier
